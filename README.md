@@ -30,7 +30,7 @@ Analyze a dataset consisting of 4,000 crowdfunding projects to discover hidden t
 	The success rate decreases as the goal increases and the fail rate increases as the goal increases.
 
 - What are some limitations of this dataset?
-	This dataset has different category/subcategory that should be filtered to see the category of interest which is theoters/plays.
+	This dataset has different category/subcategory that should be filtered to see the category of interest which is theaters/plays.
 	The dataset for the outcome based on launch date shows months and the years can be filtered.
 
 - What are some other possible tables and/or graphs that we could create?
